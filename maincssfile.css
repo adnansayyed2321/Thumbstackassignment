@@ -1,0 +1,472 @@
+
+.main-head {
+    background-color: black;
+}
+
+.main-header-container {
+    padding-top: 10px;
+    color: white;
+}
+
+.envelope-images1 {
+    height: 30px;
+    margin-right: 5px;
+    margin-left: 130px;
+}
+
+.envelope-images2 {
+    height: 30px;
+    margin-right: 5px;
+    margin-left: 30px;
+}
+
+.envelope-images3 {
+    height: 30px;
+    margin-right: 20px;
+    margin-left: 500px;
+}
+
+.envelope-images4 {
+    height: 30px;
+    margin-right: 20px;
+}
+
+.main-header-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.bookATabel {
+    margin-top: 0px;
+    background-color: red;
+    padding: 5px;
+    color: white;
+}
+
+.logo {
+    margin-left: 130px;
+    margin-bottom:10px
+}
+
+.nav-header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: white;
+}
+
+.align-items {
+    height: 30px;
+}
+
+.header-nav1 {
+    margin-left: 420px;
+    font-weight: 600;
+    color: orange;
+}
+
+.header-nav {
+    margin-left: 25px;
+    font-weight: 600;
+}
+
+.main-heading-container {
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://res.cloudinary.com/adnansayyed2321/image/upload/v1693457117/promo_slide_1_y4iyil.jpg");
+    background-size: cover;
+    color: white;
+    background-color: grey;
+    background-blend-mode: multiply;
+}
+
+.main-heading-container2 {
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://res.cloudinary.com/adnansayyed2321/image/upload/v1693457640/promo_slide_2_he4bqy.jpg");
+    background-size: cover;
+    color: white;
+    background-color: grey;
+    background-blend-mode: multiply;
+}
+
+.new {
+    font-weight: bold;
+}
+
+.todays-menu {
+    background-color: transparent;
+    color: white;
+    border-color: white;
+}
+.main-heading-container3 {
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://res.cloudinary.com/adnansayyed2321/image/upload/v1693459504/promo_slide_3_ag8r0u.jpg");
+    background-size: cover;
+    color: white;
+    background-color: grey;
+    background-blend-mode: multiply;
+}
+.ourStory{
+    font-family: "Dancing Script";
+    color:"red";
+    text-align: center;
+    margin-top:50px;
+    margin-bottom:30px;
+    font-size:60px;
+    color:red;
+}
+.M{
+    font-size:75px;
+    margin-bottom: 0px;
+    margin-right:35px
+}
+.m-align-text{
+    width:400px;
+    margin-bottom: 0px;
+
+}
+.m-align-contianer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 250px;
+    margin-bottom: 0px;
+}
+.m-next-text{
+    margin-left: 200px;
+    margin-top: 0px;
+    
+}
+.text-next-to-m{
+    width:460px;
+    margin-left:50px;
+}
+.m-next-m-container{
+    display: flex;
+    flex-direction: row;
+    
+}
+.signature-block{
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items:center;
+    margin-top:40px;
+    background-image: url("https://res.cloudinary.com/adnansayyed2321/image/upload/v1693462505/our_story_background_dfphye.png");
+    background-size: cover;
+    height: 280px;
+    
+}
+.offfer-styles{
+    background-image: url("https://res.cloudinary.com/adnansayyed2321/image/upload/v1693459504/promo_slide_3_ag8r0u.jpg");
+    background-color: grey;
+    background-size: cover;
+    background-blend-mode: multiply;
+    height: 650px;
+}
+.offer-image-1{
+    margin-top:40px;
+    width:450px;
+    height:400px;
+    margin-bottom:90px;
+    
+}
+.offer1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+.offer-second-container{
+    height: 300px;
+    background-color: white;
+    width:450px;
+    margin-bottom:40px;
+    padding: 20px;
+    padding-top:45px;
+    
+}
+.specail-package-heading{
+    color: orange;
+    font-family: "Dancing Script";
+    text-align: center;
+    padding-top:25px;
+}
+.line-image{
+    margin-left:660px;
+}
+.offer-heading{
+    font-size:25px;
+    margin-bottom:15px;
+}
+.order-now{
+    background-color: transparent;
+    border-color:orange;
+    color:orange;
+    font-weight:600;
+}
+.single-k{
+    font-family: "Sans Serif";
+}
+.todaysmenu{
+    font-family: "Dancing Script";
+    color:orange;
+    margin-top:50px;
+    text-align:center;
+}
+.all-menu-buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top:35px
+}
+.menu-buttons{
+    margin-left:25px;
+    background-color: transparent;
+}
+.menu-buttons1{
+    margin-left:25px;
+    background-color: transparent;
+    color:white;
+    background-color:orange;
+    border:none;
+    width:90px;
+    height: 30px;
+}
+.menu-item-image{
+    width:150px;
+    height:150px;
+    border-radius:75px;
+    border-style: solid;
+    border-width:15px;
+    border-color:rgb(179, 169, 169);
+    margin-right:30px;
+}
+.cupcake-recipes{
+    display: flex;
+    flex-direction: row;
+    margin-left:250px;
+    margin-top:50px;
+}
+.cupcake-recipes1{
+    display: flex;
+    flex-direction: row;
+    margin-left:80px;
+    margin-top:50px;
+}
+.cupcake-recipes12{
+    display: flex;
+    flex-direction: row;
+    margin-left:245px;
+    margin-top:50px;
+}
+.cupcake-heading{
+    font-size:20px;
+    font-weight: 700;
+}
+.items-list{
+    display: flex;
+    flex-direction: row;
+   
+
+}
+.item{
+    width:90px;
+}
+.dollar{
+    font-size:18px;
+    font-weight: 600;
+    color:orange;
+}
+.menu-section{
+    display: flex;
+    flex-direction: row;
+}
+.booking-section{
+    background-image: url("https://res.cloudinary.com/adnansayyed2321/image/upload/v1693457640/promo_slide_2_he4bqy.jpg");
+    background-color: grey;
+    background-size: cover;
+    background-blend-mode: multiply;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    color: white;
+    margin-top: 30px;
+    
+}
+.booknow{
+    background-color: white;
+    color:rgb(255, 89, 0);
+    border:none;
+    padding-right: 15px;
+    padding-left: 15px;
+    font-size: 18px;
+    width:170px;
+    font-weight: 600;
+}
+.ourchefs{
+    text-align: center;
+    margin-top: 50px;
+    color: orange;
+    font-family: "Dancing Script";  
+}
+.chefs-inner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.chefs-outer{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+    align-items: center;
+}
+.name{
+    font-size:18px;
+    margin-top:15px;
+}
+.image{
+    height: 200px;
+    margin-top:15px;
+}
+.descrip{
+    text-align: center;
+    color: grey;
+    margin-top:8px;
+    width:220px;
+    margin-left:15px;
+}
+.latest-news{
+    background-image: url("https://res.cloudinary.com/adnansayyed2321/image/upload/v1693459504/promo_slide_3_ag8r0u.jpg");
+    background-color: grey;
+    background-size: cover;
+    background-blend-mode: multiply;
+    padding-top:20px;
+    margin-top: 50px;
+    padding-bottom: 60px;
+}
+.blog-image{
+    height: 210px;
+    width:350px;
+}
+
+.card-latest-news{
+    background-color: white;
+    width:350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+    margin-top: 25px;
+}
+.restaurant-greetings{
+    font-size:18px;
+    font-family: "Dancing Script";  
+    margin-top:15px;
+}
+.line-he{
+    width:70px;
+    background-color:orange;
+}
+.latest-news-description{
+    text-align: center;
+}
+.dates{
+    font-weight: 500;
+}
+.latest-card-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.gallery{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+.lineImage-2{
+    padding-bottom: 30px;
+}
+.footer-section{
+    background-image: url("https://res.cloudinary.com/adnansayyed2321/image/upload/v1693474683/Footer_background_hoqa0e.png");
+    background-color: grey;
+    background-size: cover;
+    background-blend-mode: multiply;
+    
+}
+.address{
+    color:white;
+    margin-top: 40px;
+}
+.email{
+    color:rgb(245, 46, 6);;
+    
+}
+.footer-icons {
+    color: white;
+    font-size: 25px;
+    margin-left: 30px;
+}
+.final-footer-line{
+    background-color:white;
+    width:90%;
+    margin-top:55px;
+    margin-bottom:15px;
+}
+.footer-p-line{
+    display: flex;
+    flex-direction: row;
+    
+    color: rgb(245, 46, 6);
+}
+.glass{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 80px;
+}
+.last-details{
+    display: flex;
+    flex-direction: row;
+
+}
+.teamsOf{
+    margin-left: 25px;
+    color: rgb(245, 46, 6);
+}
+.teamsOf1{
+    margin-left: 150px;
+    color: rgb(245, 46, 6);
+    
+}
+.copyright{
+    display: flex;
+    flex-direction: row;
+}
+.copy{
+    color: rgb(245, 46, 6);
+    margin-left:550px;
+}
